@@ -89,16 +89,19 @@ void led_blink()
 
 
 
-## Output  :
-### LED OFF : 
-![led_off](https://github.com/user-attachments/assets/24a59902-ab1a-486e-8c0b-603cc94f16d7)
-### LED ON :
-![led_on](https://github.com/user-attachments/assets/074ea7b7-c408-458e-913a-91f0d5fb168b)
+## Output:
+
+### LED OFF:  
+<img src="https://github.com/user-attachments/assets/24a59902-ab1a-486e-8c0b-603cc94f16d7" width="500">
+
+### LED ON:  
+<img src="https://github.com/user-attachments/assets/074ea7b7-c408-458e-913a-91f0d5fb168b" width="500">
 
 
 
-## layout of the circuit 
-![OVERALL](https://github.com/user-attachments/assets/cf0adecf-1d98-4339-b52d-e07aff529975)
+
+## Layout of the Circuit:  
+<img src="https://github.com/user-attachments/assets/cf0adecf-1d98-4339-b52d-e07aff529975" width="500">
 
  
 ## Result :
